@@ -48,6 +48,6 @@ All experiments and security testing activities are performed only in authorized
 
 ## 🏗️ Lab Architecture
 
-
+![image alt](https://github.com/yogita-2213/week1-Submission-kali-linux-lab-/blob/cff956d8e4a7aff16bc1228c05bc858b71776b69/Screenshot%202026-10-30%20075453.png)
 
 
